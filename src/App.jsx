@@ -60,7 +60,7 @@ export default function App() {
             <span className="inline-flex items-center gap-2 align-middle">
               <Base44Logo className="w-9 h-9" />
               <span className="font-bold">Base44</span>
-              <span>Tasks, edited on GitHub for the demo</span>
+              <span>Tasks, edited on GitHub for the demo 1519</span>
             </span>
           </h1>
           {totalCount > 0 && (
